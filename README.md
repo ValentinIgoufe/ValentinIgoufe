@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 # I am in the final year of my three-year computer science degree at UPJV.
-# I love Java, C#, Python and Vue.js
-
+# I love Java, C#, Python, Vue.js and Docker.
+# I'm interested in cloud computing.
 <!--
 **ValentinIgoufe/ValentinIgoufe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
