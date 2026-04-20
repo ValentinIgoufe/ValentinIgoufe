@@ -29,7 +29,7 @@ My CI/CD pipelines (GitLab/GitHub) systematically include:
 * Cloud Performance Optimization & FinOps (Cost reduction).
 * Cybersecurity & Cryptography.
 
-📫 **Let's connect on [LinkedIn](www.linkedin.com/in/valentin-igoufe-609b9b2a1)**
+📫 **Let's connect on [LinkedIn](https://www.linkedin.com/in/valentin-igoufe-609b9b2a1)**
 <!--
 **ValentinIgoufe/ValentinIgoufe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
