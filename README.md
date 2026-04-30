@@ -1,6 +1,6 @@
 # Hi there, I'm Valentin 👋
 
-### 👨‍💻 Future Cloud Computing & Mobility Master Student @INSSET
+### 👨‍💻 Future I2L Master Student @ULCO
 I am currently finishing my CS degree at UPJV and working as a **DevSecOps Intern** at the City of Beauvais. 
 My goal is to build resilient, high-performance, and secure Cloud-Native infrastructures.
 
